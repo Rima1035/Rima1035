@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rima1035
+- 👋 Hi, I’m Rima Chavda
 - 👀 I’m interested in learning full-stack web development. 
 - 🌱 I’m currently learning the frontend part of web development and mastering Java.
 - 💞️ I’m looking to collaborate on projects related to frontend.
