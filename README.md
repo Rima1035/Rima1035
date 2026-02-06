@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rima Chavda
 - 👀 I’m interested in learning full-stack web development. 
-- 🌱 I’m currently learning the frontend part of web development and mastering Java.
+- 🌱 I’m currently learning the frontend part of web development.
 - 💞️ I’m looking to collaborate on projects related to frontend.
 - 📫 How to reach me chavdarima4@gmail.com
 - 😄 Pronouns: ...
