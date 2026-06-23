@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning the frontend part of web development.
 - 💞️ I’m looking to collaborate on projects related to frontend.
 - 📫 How to reach me chavdarima4@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I invest my time in reading comics😄.
 
 <!---
